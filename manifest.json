@@ -1,15 +1,15 @@
 {
     "format_version": 2,
     "header": {
-        "description": "Changed Bows To DL-44 Pistols",
-        "name": "Star Wars",
+        "description": "Star Wars Texture Pack",
+        "name": "Star Wars - 0.0.2",
         "uuid": "bb508c61-ea3b-4eb3-9db8-87ed13438a7b",
-        "version": [0, 0, 1],
+        "version": [0, 0, 2],
         "min_engine_version": [ 1, 14, 0 ]
     },
     "modules": [
         {
-            "description": "Changed Bows To DL-44 Pistols",
+            "description": "Star Wars Texture Pack",
             "type": "resources",
             "uuid": "ff22b9a0-6264-4763-a352-265ca3b4235d",
             "version": [0, 0, 1]
