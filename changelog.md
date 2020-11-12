@@ -6,6 +6,16 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.0.4] - 2020-11-11
+### Added
+- title
+- pigstep is the imperal march
+- chrip is cantina song
+- title screen song should be star wars main theme song
+
+### Remove
+- gui
+- touch gui
 
 ## [0.0.3] - 2020-11-11
 ### Added
