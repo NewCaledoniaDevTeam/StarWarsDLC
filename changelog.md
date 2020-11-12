@@ -6,6 +6,20 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.0.5] - 2020-11-11
+### Added
+- trident is green light saber
+- diamond sword is blue light saber
+- netherite sword is red light saber
+- iron sword is purple light saber
+- wood sword is yellow light saber
+- stone sword is dark saber
+- gold sword is white light saber
+
+### Fixed
+- pigstep to pigstep_master
+- main menu music
+
 ## [0.0.4] - 2020-11-11
 ### Added
 - title
