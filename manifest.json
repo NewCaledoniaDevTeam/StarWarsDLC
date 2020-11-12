@@ -1,17 +1,17 @@
 {
     "format_version": 2,
     "header": {
-        "description": "Example vanilla resource pack",
-        "name": "Vanilla Resource Pack",
-        "uuid": "66c6e9a8-3093-462a-9c36-dbb052165822",
+        "description": "Changed Bows To DL-44 Pistols",
+        "name": "Star Wars",
+        "uuid": "bb508c61-ea3b-4eb3-9db8-87ed13438a7b",
         "version": [0, 0, 1],
         "min_engine_version": [ 1, 14, 0 ]
     },
     "modules": [
         {
-            "description": "Example vanilla resource pack",
+            "description": "Changed Bows To DL-44 Pistols",
             "type": "resources",
-            "uuid": "743f6949-53be-44b6-b326-398005028819",
+            "uuid": "ff22b9a0-6264-4763-a352-265ca3b4235d",
             "version": [0, 0, 1]
         }
     ]
