@@ -13,6 +13,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Fixed
 - Fixed a button "Unlock Full Game" being shown on 1.16 even if you have a full version.
 - title screen logo
+- main menu music should always play star war main theme
 
 
 ## [0.0.5] - 2020-11-12
