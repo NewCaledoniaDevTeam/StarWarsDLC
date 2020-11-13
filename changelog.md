@@ -9,6 +9,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [0.0.6] -2020-11-12
 ### Added
 - Removed the animation from the "Marketplace" button.
+- Jedi robes is chainmail (they will be better later)
+- Water breather is turtle shell helmet
 
 ### Fixed
 - Fixed a button "Unlock Full Game" being shown on 1.16 even if you have a full version.
