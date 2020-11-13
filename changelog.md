@@ -6,6 +6,25 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.0.7] -2020-11-13
+### Added
+- Change all the books
+- netherite pickaxe
+- diamond pickaxe
+- gold pickaxe
+- iron pickaxe
+- stone pickaxe
+- wood pickaxe
+- normal chest
+- double normal chest
+- trapped chest
+- double trapped chest
+- chest in cart
+- paper
+- bow sound
+- cross bow sound
+- more splashes and loading messages
+
 ## [0.0.6] -2020-11-12
 ### Added
 - Removed the animation from the "Marketplace" button.

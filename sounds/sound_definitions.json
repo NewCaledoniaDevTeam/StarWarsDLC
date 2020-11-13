@@ -2316,14 +2316,6 @@
         {
           "name": "sounds/crossbow/shoot1",
           "volume": 3.0
-        },
-        {
-          "name": "sounds/crossbow/shoot2",
-          "volume": 3.0
-        },
-        {
-          "name": "sounds/crossbow/shoot3",
-          "volume": 3.0
         }
       ]
     },
