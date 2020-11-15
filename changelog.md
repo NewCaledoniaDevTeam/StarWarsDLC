@@ -6,6 +6,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.0.8] -2020-11-15
+### Added
+- Red striders are now Atst raiders
+- Purple striders are now Atst with guns
+
 ## [0.0.7] -2020-11-13
 ### Added
 - Change all the books
