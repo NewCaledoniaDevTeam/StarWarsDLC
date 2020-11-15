@@ -10,6 +10,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 - Red striders are now Atst raiders
 - Purple striders are now Atst with guns
+- New Hot bar design
 
 ## [0.0.7] -2020-11-13
 ### Added
