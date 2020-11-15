@@ -13,6 +13,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - New Hot bar design
 - US_LANG file
 
+### Fixed
+- New see though pumpkin overlay texture
+
 ## [0.0.7] -2020-11-13
 ### Added
 - Change all the books
