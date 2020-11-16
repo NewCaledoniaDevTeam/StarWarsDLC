@@ -2,9 +2,9 @@
     "format_version": 2,
     "header": {
         "description": "Star Wars Texture Pack",
-        "name": "Star Wars - 0.0.7",
+        "name": "Star Wars - 0.0.8",
         "uuid": "bb508c61-ea3b-4eb3-9db8-87ed13438a7b",
-        "version": [0, 0, 7],
+        "version": [0, 0, 8],
         "min_engine_version": [ 1, 14, 0 ]
     },
     "modules": [
