@@ -12,6 +12,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Purple striders are now Atst with guns
 - New Hot bar design
 - US_LANG file
+- when you died it plays the Wihelm Scream
+- New Gun noises
 
 ### Fixed
 - New see though pumpkin overlay texture
